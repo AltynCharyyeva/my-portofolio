@@ -29,18 +29,20 @@ function App() {
   return (
     <div className="container">
       <nav className="nav">
-        <div className="logo">YourName.dev</div>
+        <div className="logo">Altyn Charyyeva</div>
         <div className="nav-links">
           <a href="#projects">Projects</a>
-          <a href="https://github.com/username">GitHub</a>
+          <a href="https://github.com/AltynCharyyeva">GitHub</a>
         </div>
       </nav>
 
       <header className="hero">
-        <h1 className="title">Frontend Developer & Designer</h1>
+        <h1 className="title">
+          Computer Science Student | Future Computer Engineer
+        </h1>
         <p className="subtitle">
-          I build clean, performant web applications using modern React
-          patterns.
+          I build performant web applications, focusing more on backend and
+          database.
         </p>
         <button
           className="btn-primary"
