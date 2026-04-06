@@ -33,7 +33,7 @@ function App() {
         <div className="nav-links">
           <a href="#projects">Projects</a>
           <a href="https://github.com/AltynCharyyeva">GitHub</a>
-          <a href="/CharyyevaAltyn.pdf" target="_blank" rel="noreferrer">
+          <a href="./CharyyevaAltyn.pdf" target="_blank" rel="noreferrer">
             CV (PDF)
           </a>
         </div>
