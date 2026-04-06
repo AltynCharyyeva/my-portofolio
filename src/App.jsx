@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css"; // Import the new CSS file here
+import "./App.css";
 
 const projects = [
   {
@@ -33,6 +33,9 @@ function App() {
         <div className="nav-links">
           <a href="#projects">Projects</a>
           <a href="https://github.com/AltynCharyyeva">GitHub</a>
+          <a href="/CharyyevaAltyn.pdf" target="_blank" rel="noreferrer">
+            CV (PDF)
+          </a>
         </div>
       </nav>
 
