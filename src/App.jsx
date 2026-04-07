@@ -52,11 +52,11 @@ function App() {
 
       <header className="hero">
         <h1 className="title">
-          Computer Science Student | Future Computer Engineer
+          Computer Science Student & Future Computer Engineer
         </h1>
         <p className="subtitle">
-          I build performant web applications, focusing more on backend and
-          database.
+          I build web applications, focusing more on backend and database
+          design.
         </p>
         <button
           className="btn-primary"
